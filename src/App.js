@@ -541,7 +541,7 @@ Mixing the artwork of Base with Bored Apes in an artistic way, BBA YC seeks to f
         <s.SpacerMedium />
         
         <StyledImg3
-        src={"/config/images/map.png"}
+        src={"/config/images/map.jpg"}
         style={{
           marginLeft: "0",
         }}
