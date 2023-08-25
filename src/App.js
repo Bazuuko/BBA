@@ -826,7 +826,7 @@ Follow us on our social media platforms to get the most up-to-date, and accurate
 <s.SpacerLargeX />
 <s.SpacerLarge />
 <div style={{display: "flex", marginLeft: "-20px"}}>
-<StyledImg
+<StyledImg onClick={handleTelegram}
         src={"/config/images/tg2.png"}
         style={{
           width: "50px",
@@ -835,7 +835,7 @@ Follow us on our social media platforms to get the most up-to-date, and accurate
         }}
         />
         <s.SpacerLargeX />
-        <StyledImg
+        <StyledImg onClick={handleTwitter}
         src={"/config/images/tw2.png"}
         style={{
           width: "50px",
