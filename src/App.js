@@ -643,7 +643,7 @@ Mixing the artwork of Base with Bored Apes in an artistic way, BBA YC seeks to f
               <s.TextTitle3
                 style={{ textAlign: "center", color: "var(--accent-text)" }}
               >
-                Cost: 0.0069 ETH
+                Cost: 0.0019 ETH (OFFER!)
               </s.TextTitle3>
               <s.SpacerXSmall />
               <s.TextTitle3
